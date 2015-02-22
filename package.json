@@ -7,5 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jake Sellers",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^2.1.1",
+    "lodash": "^3.3.0",
+    "mongodb": "^1.4.31",
+    "request": "^2.53.0",
+    "tough-cookie": "^0.12.1"
+  }
 }
